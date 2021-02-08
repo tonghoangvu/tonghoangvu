@@ -1,4 +1,4 @@
-## Hi there!
+## Hi there! 👏
 
 I'm Tong Hoang Vu, a Java backend developer. I have experience working with Spring Boot and MongoDB projects. I also know about HTML, CSS, JavaScript, a little bit of Node.js, and MySQL. Currently, I'm digging into the Spring ecosystem and learning the Kotlin language.
 
