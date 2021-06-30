@@ -1,9 +1,15 @@
 ## Hi there! 👏
 
-I'm Tong Hoang Vu, a Java backend developer. I have experience working with Spring Boot and MongoDB projects. I also know about HTML, CSS, JavaScript, a little bit of Node.js, and MySQL. Currently, I'm digging into the Spring ecosystem and learning the Kotlin language.
+Glad to see you here.
 
-Check out my blog at https://tonghoangvu.com, or my Viblo profile https://viblo.asia/u/tonghoangvu (where I write my Spring Boot series).
+I am Tong Hoang Vu, a Java backend developer and a university student. I love programming and writing technical blog.
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonghoangvu&layout=compact)
+I have experience with Java, Spring Boot and MongoDB. Besides, I also know about HTML, CSS, JavaScript and a little knowledge for frontend development.
+
+Currently, I am digging into the Spring ecosystem and trying something new, such as Go, Angular, Docker, etc.
+
+Check out my blog https://tonghoangvu.hashnode.dev or my Viblo profile https://viblo.asia/u/tonghoangvu.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonghoangvu&show_icons=true)
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonghoangvu&layout=compact)
