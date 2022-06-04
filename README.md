@@ -2,10 +2,10 @@
 
 Glad to see you here.
 
-I am Tong Hoang Vu, a Java backend developer and a university student. I love programming and writing technical blog.
+I am Tong Hoang Vu, a Java backend developer, and a university student. I love programming and writing technical blogs.
 
-I have experience with Java, Spring Boot and JPA (PostgreSQL, MongoDB).
-Besides, I also know about HTML, CSS, JavaScript and a little knowledge for frontend development (NPM, Yarn, ESLint, Prettier).
+I have experience with Java, Spring Boot, and JPA (PostgreSQL, MongoDB).
+Besides, I also know about HTML, CSS, JavaScript, and a little knowledge of frontend development (NPM, Yarn, ESLint, Prettier).
 
 Currently, I am digging into the Java ecosystem and trying something new, such as Vue, Docker, etc.
 
