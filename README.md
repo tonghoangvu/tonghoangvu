@@ -1,13 +1,12 @@
 ## Hi there! 👏
 
-Glad to see you here.
+I'm Vu Tong, a tech enthusiast, mainly in Java and JavaScript.
 
-I am Tong Hoang Vu, a Java backend developer, and a university student. I love programming and writing technical blogs.
+I have over one year of experience in web backend development with Java Spring.
 
-I have experience with Java, Spring Boot, and JPA (PostgreSQL, MongoDB).
-Besides, I also know about HTML, CSS, JavaScript, and a little knowledge of frontend development (NPM, Yarn, ESLint, Prettier).
+In my free time, I write technical blogs and do open-source projects for sharing.
 
-Currently, I am digging into the Java ecosystem and trying something new, such as Azure and SolidJS.
+Currently, I'm digging into the Java ecosystem and trying something new, for example, Azure and SolidJS.
 
 Check out my Viblo profile at https://viblo.asia/u/tonghoangvu.
 
