@@ -1,13 +1,10 @@
-## Hi there! 👏
+# Hi there! 👏
 
-I'm Vu Tong, a tech enthusiast, mainly in Java and JavaScript.
+I'm Vu Tong, a tech enthusiast in Java and JavaScript.
+I do open-source projects and write blogs in my free time.
+Currently, I'm digging into the Java ecosystem and trying Vue and Azure (for work).
 
-I have over one year of experience in web backend development with Java Spring.
-
-In my free time, I write technical blogs and do open-source projects for sharing.
-
-Currently, I'm digging into the Java ecosystem and trying something new, for example, Azure and SolidJS.
-
-Check out my Viblo profile at https://viblo.asia/u/tonghoangvu.
+I'm also the owner of [Pocketo project](https://github.com/pocketo-org), an OSS focused on documentation, code quality, and testing.
+Please check it out, you might love it at first sight 🥳
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonghoangvu&show_icons=true)
